@@ -6,7 +6,7 @@ Fan d'informatique depuis tout petit, je me suis orienté dès que possible vers
 
 ### Les technologies que ...
 
-**... je maitrise** : Python, C#, C, Java
+**... je maitrise** : $${\color{yellow}Python,\space \color{purple}C\#, \space \color{lightblue}C, \space \color{orange}Java}$$
 
 **... j'apprends** : C++
 
@@ -16,5 +16,5 @@ Fan d'informatique depuis tout petit, je me suis orienté dès que possible vers
 
 # Tests
 
-<span style="color:red">Texte rouge</span>
-<font color="red">Texte rouge</font>
+
+test $${\color{red}Red} \space {\color{lime}Green} \space {\color{blue}Blue}$$ test
