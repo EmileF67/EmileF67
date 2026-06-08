@@ -26,3 +26,17 @@ Fan d'informatique depuis tout petit, je me suis orienté dès que possible vers
 ![SQL](https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white)
 ![Batch](https://img.shields.io/badge/Batch-4D4D4D?logo=windows-terminal&logoColor=white)
+
+
+
+
+
+# Mes projets :
+
+## Tuile
+
+Ce projet, réalisé en C++, vise à proposer un semblant d'interface de bureau, tout en étant uniquement basé sur du texte.
+
+Pour l'instant, ce projet n'affiche qu'une pseudo barre des tâches tout en haut avec des widgets tel que l'heure ou la consommation de différents composants ; ainsi qu'un gestionnaire de fichier basique.
+
+L'affichage des fenêtres se fait de telle sorte à reproduire le rôle d'un *window manager*. Encore très rudimentaire, il s'apparente à ce qu'*i3* pourrait proposer.
