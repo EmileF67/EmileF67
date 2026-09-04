@@ -1,6 +1,6 @@
 # Bonjour ! :3
 
-Je m'appelle Emile, et je suis étudiant en 1ère année de BUT Informatique.
+Je m'appelle Emile, et je suis étudiant en 2ème année de BUT Informatique.
 
 Fan d'informatique depuis tout petit, je me suis orienté dès que possible vers des études de développement.
 
